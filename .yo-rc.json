@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Recruiment",
+    "packageVersion": "0.0.1",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "losfigatto",
+    "githubRepository": "TinvRecruiment"
+  }
+}
